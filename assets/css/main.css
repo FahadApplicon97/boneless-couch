@@ -100,3 +100,12 @@ font-size: 1rem!important;
         width: 33.3333%;
     }
 }
+
+/* Announcement Bar CSS */
+.announcement-bar-section{
+    background-color: rgb(225 232 237 / 1.0);
+}
+
+.announcement-bar-section h3{
+  font-family: "Besley", serif;
+}
